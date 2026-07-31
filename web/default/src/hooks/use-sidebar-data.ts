@@ -18,6 +18,7 @@ For commercial licensing, please contact support@quantumnous.com
 */
 import {
   Activity,
+  Bot,
   Box,
   CreditCard,
   FileText,
@@ -112,6 +113,11 @@ export function useSidebarData(): SidebarData {
             title: t('Profile'),
             url: '/profile',
             icon: User,
+          },
+          {
+            title: t('My Agent'),
+            url: '/my-agent',
+            icon: Bot,
           },
         ],
       },

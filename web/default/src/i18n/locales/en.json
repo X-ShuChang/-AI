@@ -2025,7 +2025,7 @@
     "footer.columns.related.links.oneApi": "One API",
     "footer.columns.related.title": "Related Projects",
     "footer.defaultCopyright": "All rights reserved.",
-    "footer.new\u0061pi.projectAttributionSuffix": "All rights reserved. Designed and developed by the project contributors.",
+    "footer.newapi.projectAttributionSuffix": "All rights reserved. Designed and developed by the project contributors.",
     "For channels added after May 10, 2025, no need to remove \".\" from model names during deployment": "For channels added after May 10, 2025, no need to remove \".\" from model names during deployment",
     "For private deployments, format: https://fastgpt.run/api/openapi": "For private deployments, format: https://fastgpt.run/api/openapi",
     "Force a syntactically valid JSON response": "Force a syntactically valid JSON response",
@@ -5178,6 +5178,21 @@
     "Zero retention": "Zero retention",
     "Zhipu": "Zhipu",
     "Zhipu V4": "Zhipu V4",
-    "Zoom": "Zoom"
+    "Zoom": "Zoom",
+    "My Agent": "My Agent",
+    "Synced Conversations": "Synced Conversations",
+    "Memories": "Memories",
+    "Sync Service": "Sync Service",
+    "Unavailable": "Unavailable",
+    "Recent Conversations": "Recent Conversations",
+    "No synced conversations yet. Install LocoPal Agent and start chatting.": "No synced conversations yet. Install LocoPal Agent and start chatting.",
+    "Untitled Conversation": "Untitled Conversation",
+    "messages": "messages",
+    "Loco Remembers": "Loco Remembers",
+    "User confirmed": "User confirmed",
+    "Download LocoPal Agent": "Download LocoPal Agent",
+    "Install the desktop app to chat with AI, sync conversations and memories across all your devices.": "Install the desktop app to chat with AI, sync conversations and memories across all your devices.",
+    "View Downloads": "View Downloads",
+    "Failed to load Agent data. Please try again.": "Failed to load Agent data. Please try again."
   }
 }
